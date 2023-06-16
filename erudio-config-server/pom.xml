@@ -32,6 +32,16 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+        <dependency>
+            <groupId>org.joeyb.retry</groupId>
+            <artifactId>retry</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+		<dependency>
+			<groupId>org.joeyb.retry</groupId>
+			<artifactId>retry</artifactId>
+			<version>1.2.0</version>
+		</dependency>
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
